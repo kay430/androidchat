@@ -12,7 +12,11 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="338bb930-1b20-4f71-8692-46f1ba8c6f10" name="Default Changelist" comment="" />
+    <list default="true" id="338bb930-1b20-4f71-8692-46f1ba8c6f10" name="Default Changelist" comment="혜림's android app file">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/auc/chat/AucChatActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/auc/chat/AucChatActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_main.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +64,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1vFYod7GCDRZ1MLL58RvhrNAefp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -69,6 +77,8 @@
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="VirtualDevicePath@C:\Users\Brain\.android\avd\Nexus_6_API_30.avd" />
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-07-23T06:16:17.015278800Z" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="android-custom-viewC:/Users/Brain-Ceo/AppData/Local/Android/Sdk/sources/android-30/android/view/View.java_SELECTED" value="View" />
+    <property name="android-custom-viewC:/Users/Brain-Ceo/AppData/Local/Android/Sdk/sources/android-30/android/widget/Button.java_SELECTED" value="Button" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Dependencies" />
@@ -152,7 +162,19 @@
       <option name="presentableId" value="Default" />
       <updated>1626159480113</updated>
     </task>
+    <task id="LOCAL-00001" summary="혜림's android app file">
+      <created>1627030211807</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1627030211807</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="혜림's android app file" />
+    <option name="LAST_COMMIT_MESSAGE" value="혜림's android app file" />
   </component>
   <component name="WindowStateProjectService">
     <state x="332" y="270" key="#PSD" timestamp="1626942072683">
@@ -171,32 +193,40 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="427" y="275" key="AndroidCreateResourceFileDialog/0.0.2560.1040/-1920.0.1920.1160@0.0.2560.1040" timestamp="1627005161326" />
-    <state x="597" y="273" key="FileChooserDialogImpl" timestamp="1627025804079">
+    <state x="597" y="273" key="FileChooserDialogImpl" timestamp="1627030035262">
       <screen x="0" y="0" width="2560" height="1034" />
     </state>
-    <state x="597" y="273" key="FileChooserDialogImpl/0.0.2560.1034/-1920.0.1920.1040@0.0.2560.1034" timestamp="1627025804079" />
+    <state x="597" y="273" key="FileChooserDialogImpl/0.0.2560.1034/-1920.0.1920.1040@0.0.2560.1034" timestamp="1627030035262" />
     <state x="597" y="275" key="FileChooserDialogImpl/0.0.2560.1040/-1920.0.1920.1160@0.0.2560.1040" timestamp="1626823860713" />
-    <state width="1379" height="240" key="GridCell.Tab.0.bottom" timestamp="1627020981802">
-      <screen x="0" y="0" width="2560" height="1040" />
+    <state width="1234" height="151" key="GridCell.Tab.0.bottom" timestamp="1627373357121">
+      <screen x="0" y="0" width="2560" height="1034" />
     </state>
+    <state width="1234" height="151" key="GridCell.Tab.0.bottom/0.0.2560.1034/-1920.0.1920.1040@0.0.2560.1034" timestamp="1627373357121" />
     <state width="1379" height="240" key="GridCell.Tab.0.bottom/0.0.2560.1040/-1920.0.1920.1160@0.0.2560.1040" timestamp="1627020981802" />
-    <state width="1379" height="240" key="GridCell.Tab.0.center" timestamp="1627020981802">
-      <screen x="0" y="0" width="2560" height="1040" />
+    <state width="1234" height="151" key="GridCell.Tab.0.center" timestamp="1627373357121">
+      <screen x="0" y="0" width="2560" height="1034" />
     </state>
+    <state width="1234" height="151" key="GridCell.Tab.0.center/0.0.2560.1034/-1920.0.1920.1040@0.0.2560.1034" timestamp="1627373357121" />
     <state width="1379" height="240" key="GridCell.Tab.0.center/0.0.2560.1040/-1920.0.1920.1160@0.0.2560.1040" timestamp="1627020981802" />
-    <state width="1379" height="240" key="GridCell.Tab.0.left" timestamp="1627020981802">
-      <screen x="0" y="0" width="2560" height="1040" />
+    <state width="1234" height="151" key="GridCell.Tab.0.left" timestamp="1627373357121">
+      <screen x="0" y="0" width="2560" height="1034" />
     </state>
+    <state width="1234" height="151" key="GridCell.Tab.0.left/0.0.2560.1034/-1920.0.1920.1040@0.0.2560.1034" timestamp="1627373357121" />
     <state width="1379" height="240" key="GridCell.Tab.0.left/0.0.2560.1040/-1920.0.1920.1160@0.0.2560.1040" timestamp="1627020981802" />
-    <state width="1379" height="240" key="GridCell.Tab.0.right" timestamp="1627020981802">
-      <screen x="0" y="0" width="2560" height="1040" />
+    <state width="1234" height="151" key="GridCell.Tab.0.right" timestamp="1627373357121">
+      <screen x="0" y="0" width="2560" height="1034" />
     </state>
+    <state width="1234" height="151" key="GridCell.Tab.0.right/0.0.2560.1034/-1920.0.1920.1040@0.0.2560.1034" timestamp="1627373357121" />
     <state width="1379" height="240" key="GridCell.Tab.0.right/0.0.2560.1040/-1920.0.1920.1160@0.0.2560.1040" timestamp="1627020981802" />
     <state x="643" y="160" key="SettingsEditor" timestamp="1627029907362">
       <screen x="0" y="0" width="2560" height="1034" />
     </state>
     <state x="643" y="160" key="SettingsEditor/0.0.2560.1034/-1920.0.1920.1040@0.0.2560.1034" timestamp="1627029907362" />
     <state x="316" y="169" key="SettingsEditor/0.0.2560.1040/-1920.0.1920.1160@0.0.2560.1040" timestamp="1626239578439" />
+    <state x="621" y="273" key="Vcs.Push.Dialog.v2" timestamp="1627030221860">
+      <screen x="0" y="0" width="2560" height="1034" />
+    </state>
+    <state x="621" y="273" key="Vcs.Push.Dialog.v2/0.0.2560.1034/-1920.0.1920.1040@0.0.2560.1034" timestamp="1627030221860" />
     <state x="1235" y="40" width="1033" height="828" key="dock-window-1" timestamp="1627002269461">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
@@ -205,6 +235,10 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="1171" y="0" width="1148" height="912" key="dock-window-2/0.0.2560.1040/-1920.0.1920.1160@0.0.2560.1040" timestamp="1627018070855" />
+    <state x="830" y="446" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1627030067015">
+      <screen x="0" y="0" width="2560" height="1034" />
+    </state>
+    <state x="830" y="446" key="git4idea.remote.GitConfigureRemotesDialog/0.0.2560.1034/-1920.0.1920.1040@0.0.2560.1034" timestamp="1627030067015" />
     <state x="391" y="264" key="psd.add.library.dependency.panel.dimension" timestamp="1626942071713">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
